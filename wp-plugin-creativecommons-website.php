@@ -1,4 +1,4 @@
-<?php
+<?apk
 
 /**
  * Plugin Name: Creative Commons website plugin
